@@ -6,7 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<h2 href = 'https://www.kaggle.com/datasets/yasserh/walmart-dataset'>DATA Set Link</h2>
+<h2>DATA Set Link</h2>
+<a href = 'https://www.kaggle.com/datasets/yasserh/walmart-dataset'> https://www.kaggle.com/datasets/yasserh/walmart-dataset </a>
   
 <h1>Unveiling Retail Secrets: Predicting Demand with Time Series Magic</h1>
 <p>Imagine being a retail wizard, conjuring up the perfect inventory levels to meet customer needs without excess or stockouts. Enter Time Series Analysis, a powerful spellbook filled with ARIMA and SARIMA algorithms, ready to unveil hidden patterns in your sales data and predict future demand like a pro!</p>
